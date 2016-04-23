@@ -1,0 +1,15 @@
+cd C:\Study\DS\ProjectWorkspace\GFS\src
+
+javac *.java
+
+java ChunkServer 3456 9876
+
+java ChunkServer 4567 8765
+
+java ChunkServer 5678 7654
+
+java ChunkServer 6789 6543
+
+java ChunkServer 7893 5439
+
+java ChunkServer 8934 4398
